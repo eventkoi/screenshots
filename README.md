@@ -6,3 +6,5 @@ Public staging area for screenshots of EventKoi's throwaway demo site. WordPress
 - `blog/<slug>/` – screenshots for blog posts (pushed by the marketing project)
 
 Only demo-site screenshots belong here: no customer data, credentials or anything private.
+
+Images are deleted from here once WordPress has them in its media library and the post is saved as a draft with them, so this repo stays near-empty.
